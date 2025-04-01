@@ -1,2 +1,2 @@
-Hello this is my first work with stremlab------
-step1-> open yhe given link https://3bdxffzohrcvteoaxfd8he.streamlit.app/
+Hello this is my first work with streamlit------
+step1-> open the given link https://3bdxffzohrcvteoaxfd8he.streamlit.app/
